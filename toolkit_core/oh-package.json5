@@ -1,0 +1,9 @@
+{
+  "name": "toolkit_core_ymx1205",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "Ymx1205 <2715550284@qq.com>",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
